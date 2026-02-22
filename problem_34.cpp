@@ -12,9 +12,11 @@ int main(){
     }
     cout<<"\nEnter Target : ";
     cin>>target;
+    int c=0;
     while(l<=h){
         int mid=(l+h)/2;
         if(arr[mid]==target){
+            c=mid;
             f=true;
             break;
         }
@@ -24,11 +26,11 @@ int main(){
             h=mid-1;
         }
     }
-    if(f){
-        cout<<"\nFound";
-    }else{
-        cout<<"\nnot found";
-    }
+   if(f){
+     cout<<c-1<<" "<<c;
+     }else{
+         cout<<" [-1,-1] ";
+        } 
     
         return 0;
 }
