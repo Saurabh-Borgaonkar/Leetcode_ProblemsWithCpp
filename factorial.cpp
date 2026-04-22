@@ -1,14 +1,15 @@
+//print the values in decreasing order
+
 #include<iostream>
 using namespace std;
+int decreasing(int n){
+    if(n==0) return 1;
+    cout<<n<<" ";
+return decreasing(n-1);
+}
 int main(){
     int n;
-    int pow;
     cin>>n;
-    cin>>pow;
-    int ans=1;
-    for(int i=1;i<=pow;i++){
-        ans*=n;
-    }
-    cout<<ans;
+    decreasing(n);
     return 0;
 }
