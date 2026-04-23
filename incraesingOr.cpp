@@ -2,10 +2,11 @@
 
 #include<iostream>
 using namespace std;
-int increasing(int n,int count=0){
-    if(n==count) return n;
-    cout<<count+1<<" ";
-return increasing(n,count+1);
+int increasing(int n){
+    if(n==1) return 1;
+    
+return increasing(n);
+cout<<n<<" ";
 }
 int main(){
     int n;
