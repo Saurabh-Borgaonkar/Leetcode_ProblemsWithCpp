@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 int MaxEleArray(int arr[],int i,int size,int max){
-    if(i==size) return max; 
+    if(i==size) return max;
     if(arr[i]>max) max=arr[i];
 return MaxEleArray(arr,i+1,size,max);
 }
