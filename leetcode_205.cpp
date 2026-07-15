@@ -40,7 +40,7 @@ int main() {
     cin >> t;
 
     if (isIsomorphic(s, t))
-        cout << "True" << endl;
+        cout << "True";
     else
         cout << "False" << endl;
 
