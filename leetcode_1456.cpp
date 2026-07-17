@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-int isVowel(char c) {
+bool isVowel(char c) {
     return string("aeiou").find(c) != string::npos;
 }
 
@@ -14,19 +14,30 @@ int maxVowels(string s, int k) {
     int count = 0;
     int mxCount = 0;
 
-    while (r < s.size()) {
-        while (t <= r) {
-            if (isVowel(s[t]))
-                count++;
-            t++;
+    // Count vowels in the first window
+    while (t <= r) {
+        if (isVowel(s[t])) {
+            count++;
+        }
+        t++;
+    }
+
+    mxCount = count;
+
+    // Slide the window
+    while (r < s.size() - 1) {
+        if (isVowel(s[l])) {
+            count--;
         }
 
-        mxCount = max(count, mxCount);
-
         l++;
-        t = l;
         r++;
-        count = 0;
+
+        if (isVowel(s[r])) {
+            count++;
+        }
+
+        mxCount = max(mxCount, count);
     }
 
     return mxCount;
