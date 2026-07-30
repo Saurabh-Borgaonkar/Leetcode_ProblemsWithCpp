@@ -20,6 +20,5 @@ int main() {
     cin >> n;
 
     cout << "Digit Frequency Score: " << digitFrequencyScore(n) << endl;
-
     return 0;
 }
