@@ -15,7 +15,7 @@ int missingMultiple(vector<int>& nums, int k) {
     while (i <= 101) {
         if (mp.find(i * k) == mp.end()) {
             return i * k;
-        }/
+        }
         i++;
     }
 
