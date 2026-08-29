@@ -28,7 +28,7 @@ int calPoints(vector<string>& str) {
             int n = stoi(str[i]);
             st.push(n);
         }
-    }
+     }
 
     int sum = 0;
 
