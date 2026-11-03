@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0002-add-two-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
