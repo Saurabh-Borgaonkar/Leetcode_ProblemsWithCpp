@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
