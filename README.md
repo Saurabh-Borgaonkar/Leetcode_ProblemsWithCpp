@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0031-next-permutation) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0031-next-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
