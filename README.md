@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
