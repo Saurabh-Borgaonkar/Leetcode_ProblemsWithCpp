@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0048-rotate-image) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0048-rotate-image) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0038-count-and-say) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
