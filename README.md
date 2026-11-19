@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0050-powx-n) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Saurabh-Borgaonkar/Leetcode_ProblemsWithCpp/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
